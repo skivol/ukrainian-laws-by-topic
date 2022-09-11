@@ -297,6 +297,7 @@
 
 ### Сайти збору інформації щодо побічних ефектів медичних препаратів та вакцин
 * [Автоматизована інформаційна система з фармаконагляду (АІСФ)](https://aisf.dec.gov.ua/Account/LogOn)
+* [National Vaccine Information Center](https://www.nvic.org/)
 * [VAERS](https://vaers.hhs.gov/);
 * [Yellow Card reporting site](https://yellowcard.mhra.gov.uk/);
 
