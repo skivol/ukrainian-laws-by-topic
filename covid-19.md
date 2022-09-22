@@ -239,12 +239,16 @@
 
 ## Вид хвороби, та міри протидії
 * До якої категорії хвороб відноситься Covid-19 ? Чи вводиться карантин через такі хвороби ?
+
 ### Маски
 * Чи ефективні маски для захисту від хвороб, що розповсюджуються у вигляді аерозолів ?
 * Захищає вона носія, чи оточуючих ? Якщо людина не має симптомів хвороби, навіщо їй носити маску ? (Чому плакат "Червоного Хреста України" на якому вказано, що медичну маску не потрібно надягати, якщо немає респіраторних симптомів тепер віднесено до категорії "не актуально" ? [плакат](https://web.archive.org/web/20220128213816/https://redcross.org.ua/wp-content/uploads/2020/02/2020-final-03-Coronavirus-A2-poster.png))
 * Чи дотримуються люди правил їх носіння ?
 * Чи є ризики шкоди для здоров'я (наприклад, гіпоксія, або вдихання мікробів через забруднену маску), особливо дитячого ?
 * Як масковий режим впливає на психічне здоров'я дітей ?
+
+Відео на цю тему: [Covid Revealed – Episode 8B - Bonus Video (Stephen Petty)](https://rumble.com/vrfoox-covid-revealed-episode-8b-bonus-video-stephen-petty.html)
+
 ### "Локдаун"
 По-перше, варто зазначити, що це тюремна термінологія, а в медицині є поняття "карантин", що передбачує ізоляцію хворих людей.
 * Чи існують наукові підтвердження щодо ефективності ізоляції **здорового населення** в зупиненні розповсюдження хвороб ?
@@ -309,6 +313,8 @@
 * "Crimes or Cover-Up? Exposing the World’s Most Dangerous Lie Pt. 1" ([відео на rumble](https://rumble.com/vpzxeu-crimes-or-cover-up-exposing-the-worlds-most-dangerous-lie-pt.-1.html))
 * "Plandemic Movie (Part 2) "Indoctornation"" ([відео на rumble](https://rumble.com/vse0ul-plandemic-movie-part-2-indoctornation.html))
 * [The Highwire EPISODE 233: THE VAERS SCANDAL](https://thehighwire.com/videos/episode-233-the-vaers-scandal/)
+* VAXXED - From Cover-up to Catastrophe ([rumble](https://rumble.com/v1doirj-vaxxed-from-cover-up-to-catastrophe.html))
+* VAXXED II - The People's Truth (наприклад, [на rumble](https://rumble.com/v1e7l1n-vaxxed-ii-the-peoples-truth-1000s-of-interviews-conducted-w-parents-and-doc.html))
 * та інші.
 
 ### Книги
