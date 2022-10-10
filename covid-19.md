@@ -16,6 +16,9 @@
 * [Про виділення коштів з резервного фонду державного бюджету для забезпечення надання допомоги в рамках Програми “єПідтримка”](https://zakon.rada.gov.ua/laws/show/336-2022-%D1%80)
 * [Закон України "Про лікарські засоби"](https://zakon.rada.gov.ua/laws/show/123/96-%D0%B2%D1%80)
 
+## Введення в дію відбудеться 01.10.2023
+* [Про систему громадського здоров’я](https://zakon.rada.gov.ua/laws/show/2573-IX#Text) (2. Визнати такими, що втратили чинність з дня введення в дію цього Закону: Закон України "Про забезпечення санітарного та епідемічного благополуччя населення")
+
 # Деякі з вищезгаданих документів зі змінами у часі для більш зручного вивчення у вигляді PDF файлів
 
 * https://github.com/skivol/ukrainian-laws-in-time-formatter/releases/tag/covid-19-docs
@@ -172,6 +175,18 @@
 ## Закон України "Про лікарські засоби"
 Варті ближчого вивчення зміни в цьому законі починаючи з 2020 року.
 
+## [Про систему громадського здоров’я](https://zakon.rada.gov.ua/laws/show/2573-IX#Text)
+Закон потрібно вивчати більш детально, тим паче, що він заміняє інший існуючий закон, але цікавий момент полягає в абзаці що був присутній в [проекті закону](https://itd.rada.gov.ua/billInfo/Bills/pubFile/284773):
+
+> 6. Медичні працівники, які проводять профілактичні щеплення, повинні
+> мати відповідну підготовку з питань їх проведення та зобов'язані надати
+> об'єктивну інформацію особам, яким проводиться щеплення, або їх законним
+> представникам про ефективність профілактичних щеплень, ризики для
+> здоров’я від інфекційних хвороб, про можливі поствакцинальні ускладнення
+> та рекомендації щодо їх усунення.
+
+але навіть приблизно не згадується в остаточній версії. [Проект Закону про систему громадського здоров’я](https://itd.rada.gov.ua/billInfo/Bills/Card/4094)
+
 ## [Коронавірус в Україні Офіційний інформаційний портал Міністерства охорони здоров'я України](https://covid19.gov.ua/)
 105 505 летальних випадків
 
@@ -301,9 +316,12 @@
 
 ### Сайти збору інформації щодо побічних ефектів медичних препаратів та вакцин
 * [Автоматизована інформаційна система з фармаконагляду (АІСФ)](https://aisf.dec.gov.ua/Account/LogOn)
-* [National Vaccine Information Center](https://www.nvic.org/)
 * [VAERS](https://vaers.hhs.gov/);
 * [Yellow Card reporting site](https://yellowcard.mhra.gov.uk/);
+
+### Сайти про вакцинацію та суміжні теми
+* [National Vaccine Information Center](https://www.nvic.org/)
+* [Children's Health Defense](https://childrenshealthdefense.org/)
 
 ### Документальні фільми та відео
 * "Covid Revealed Docu-Series" ([rumble.com](https://rumble.com/c/CovidRevealedDocuSeries), [1-а серія з субтитрами](https://rumble.com/v1aha2n-covid-revealed-episode-1-with-english-russian-subtitles.html));
@@ -315,6 +333,7 @@
 * [The Highwire EPISODE 233: THE VAERS SCANDAL](https://thehighwire.com/videos/episode-233-the-vaers-scandal/)
 * VAXXED - From Cover-up to Catastrophe ([rumble](https://rumble.com/v1doirj-vaxxed-from-cover-up-to-catastrophe.html))
 * VAXXED II - The People's Truth (наприклад, [на rumble](https://rumble.com/v1e7l1n-vaxxed-ii-the-peoples-truth-1000s-of-interviews-conducted-w-parents-and-doc.html))
+* [60 Minutes - Swine Flu (1976)](https://childrenshealthdefense.org/video/60-minutes-swine-flu-1976-vaccine-warning/)
 * та інші.
 
 ### Книги
